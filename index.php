@@ -12,7 +12,7 @@
       <h1>Header</h1>
     </header>
 
-    <nav class="navbar navbar-expand-sm">
+    <nav class="navbar navbar-expand-lg">
       <ul>
         <li><a href="#">Home</a></li>
         <li><a href="#">Our team</a></li>
