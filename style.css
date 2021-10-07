@@ -6,20 +6,9 @@
     font-style: normal;
 }
 
-.title {
+.hardball {
     font-family: hardball;
-    position: relative;
-    bottom: 20px;
-    font-size: 6em;
-    height: 90px;
-}
-
-@media screen and (max-width: 768px) {
-    .title {
-        position: relative;
-        top: 5px;
-        font-size: 4em;
-    }
+    font-size: 3rem;
 }
 
 html {
@@ -31,6 +20,13 @@ header {
     background-color: #900a00;
     box-shadow: 50px 0 5px black;
  }
+
+.title {
+    position: relative;
+    bottom: 20px;
+    font-size: 6em;
+    height: 90px;
+}
 
 .my_navbar {
     background-color: #9C3822;
@@ -51,12 +47,6 @@ aside {
     height: 60vh;
 }
 
-@media screen and (max-width: 1199px)  {
-    .article1, .article2, .article3 {
-        height: 80vh;
-    }
-}
-
 .article4 {
     height: 400px;
     background-color: greenyellow ;
@@ -65,4 +55,18 @@ aside {
 footer {
     height: 15vh;
     background-color: cadetblue;
+}
+
+@media screen and (max-width: 768px) {
+    .title {
+        position: relative;
+        top: 5px;
+        font-size: 4em;
+    }
+}
+
+@media screen and (max-width: 1199px)  {
+    .article1, .article2, .article3 {
+        height: 80vh;
+    }
 }
