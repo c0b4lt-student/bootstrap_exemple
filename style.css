@@ -1,0 +1,68 @@
+@font-face {
+    font-family: 'hardball';
+    src: url('Font/HardBall/i.f.c._hardball-webfont.woff2') format('woff2'),
+    url('Font/HardBall/i.f.c._hardball-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.title {
+    font-family: hardball;
+    position: relative;
+    bottom: 20px;
+    font-size: 6em;
+    height: 90px;
+}
+
+@media screen and (max-width: 768px) {
+    .title {
+        position: relative;
+        top: 5px;
+        font-size: 4em;
+    }
+}
+
+html {
+    font-size: 1em;
+}
+
+header {
+    height: 100px;
+    background-color: #900a00;
+    box-shadow: 50px 0 5px black;
+ }
+
+.my_navbar {
+    background-color: #9C3822;
+}
+
+.my_nav-text-color {
+    color: #361911;
+}
+
+aside {
+    height: auto;
+    background-color: lightslategray;
+}
+
+.article1, .article2, .article3 {
+    background-color: deeppink;
+    border: black solid 1px;
+    height: 60vh;
+}
+
+@media screen and (max-width: 1199px)  {
+    .article1, .article2, .article3 {
+        height: 80vh;
+    }
+}
+
+.article4 {
+    height: 400px;
+    background-color: greenyellow ;
+}
+
+footer {
+    height: 15vh;
+    background-color: cadetblue;
+}
