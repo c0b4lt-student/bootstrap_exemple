@@ -27,12 +27,11 @@
     </div>
   </header>
   <!--Navbar collapsed-->
-  <div class="position-fixed top-0 end-0">
+  <div class="position-flex top-0 end-0">
     <div class="my_navbar collapse navbar flex-column rounded-bottom" id="navbarToggleExternalContent">
-      <a class="navbar-brand my_nav-text-color hardball" href="#">Amnesia</a>
       <ul class="nav flex-column nav-pills">
         <li class="nav-item">
-          <a class="nav-link active my_nav-text-color" href="#">Qui sommes-nous ?</a>
+          <a class="nav-link my_nav-text-color" href="#qui_sommes_nous">Qui sommes-nous ?</a>
         </li>
         <li class="nav-item">
           <a class="nav-link my_nav-text-color" href="#">Nos prochains concerts</a>
@@ -42,7 +41,7 @@
         </li>
       </ul>
     </div>
-    <nav class="position-fixed top-0 end-0 navbar rounded-circle">
+    <nav class="position-absolute top-0 end-0 navbar rounded-circle">
       <button class="navbar-toggler shadow-none" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon">
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
@@ -58,7 +57,7 @@
     <section class="col-12">
 
       <article class="row justify-content-xl-around card-group">
-        <h2 class="hardball">Les membres du groupes</h2>
+        <h2 class="hardball" id="qui_sommes_nous">Les membres du groupes</h2>
         <article class="col-12 col-md-4 col-xl-3 card member_cards">
           <img class="card-img-top my_card-img c" src="Pics/Thomas.jpg" alt="Picture of Thomas, member of amnesia"/>
           <div class="card-body">
