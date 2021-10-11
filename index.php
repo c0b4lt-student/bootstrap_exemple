@@ -20,7 +20,7 @@
       <p class="row h-100 justify-content-around align-items-center">LOGO</p>
     </div>
     <div class="col-6">
-      <p class="row justify-content-around align-items-center title hardball">Amnesia</p>
+      <h1 class="row justify-content-around align-items-center title hardball">Amnesia</h1>
     </div>
     <div class="badge col-3">
       <p class="row h-100 justify-content-center align-items-center">BADGE</p>
@@ -55,7 +55,29 @@
 
   <!-- Main content -->
   <main class="row m-3">
-    <div class="col-12">
+    <section class="col-12">
+
+      <article class="row justify-content-xl-around card-group">
+        <h2 class="hardball">Les membres du groupes</h2>
+        <article class="col-12 col-md-4 col-xl-3 card member_cards">
+          <img class="card-img-top my_card-img c" src="Pics/Thomas.jpg" alt="Picture of Thomas, member of amnesia"/>
+          <div class="card-body">
+            <h3 class="hardball card-title">Thomas guitariste et chanteur</h3>
+            <p class="card-text">Thomas, né le 23/10/1997 est guitariste et chanteur du groupe amnesia.
+            Il consacre la majorité de son temps libre pour l'évolution du groupe. Membre depuis la création, il aimerai pouvoir vivre grâce aux revenu d'amnesia</p>
+          </div>
+          <div class="card-footer">
+            <p>Three buttons</p>
+          </div>
+        </article>
+        <article class="article2 col-12 col-md-4 col-xl-3">
+          <p class="row h-100 justify-content-center align-items-center">ARTICLE 2</p>
+        </article>
+        <article class="article3 col-12 col-md-4 col-xl-3">
+          <p class="row h-100 justify-content-center align-items-center">ARTICLE 3</p>
+        </article>
+      </article>
+
       <article class="article4 row my-1">
         <p>
           Amnesia est un groupe de Rock/Hard Rock/Heavy Metal formé en 2018 à Clermont-Ferrand par 4 musiciens</p>
@@ -67,18 +89,7 @@
         </ul>
       </article>
 
-      <div class="row justify-content-xl-around">
-        <article class="article1 col-12 col-md-4 col-xl-3">
-          <p class="row h-100 justify-content-center align-items-center">ARTICLE 1</p>
-        </article>
-        <article class="article2 col-12 col-md-4 col-xl-3">
-          <p class="row h-100 justify-content-center align-items-center">ARTICLE 2</p>
-        </article>
-        <article class="article3 col-12 col-md-4 col-xl-3">
-          <p class="row h-100 justify-content-center align-items-center">ARTICLE 3</p>
-        </article>
-      </div>
-    </div>
+    </section>
   </main>
 
   <footer class="row">

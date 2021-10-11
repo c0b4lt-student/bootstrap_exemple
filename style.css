@@ -8,11 +8,15 @@
 
 .hardball {
     font-family: hardball;
-    font-size: 3rem;
+    font-size: 1.8rem;
 }
 
 html {
     font-size: 1em;
+}
+
+body {
+    background-color: #da755c;
 }
 
 header {
@@ -23,9 +27,8 @@ header {
 
 .title {
     position: relative;
-    bottom: 20px;
-    font-size: 6em;
-    height: 90px;
+    top: 5px;
+    font-size: 4em;
 }
 
 .my_navbar {
@@ -41,10 +44,20 @@ aside {
     background-color: lightslategray;
 }
 
-.article1, .article2, .article3 {
-    background-color: deeppink;
+.member_cards {
+    background-color: #853c2b;
     border: black solid 1px;
-    height: 60vh;
+    height: 80vh;
+}
+
+@media screen and (max-height: 800px) {
+    .member_cards {
+        height: 120vh;
+    }
+}
+
+.member_cards > .card-body > h3 {
+    font-size: 2.2rem;
 }
 
 .article4 {
@@ -57,16 +70,17 @@ footer {
     background-color: cadetblue;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) {
     .title {
         position: relative;
-        top: 5px;
-        font-size: 4em;
+        bottom: 20px;
+        font-size: 6em;
+        height: 90px;
     }
 }
 
-@media screen and (max-width: 1199px)  {
-    .article1, .article2, .article3 {
+@media screen and (min-width: 1199px)  {
+    .member_cards {
         height: 80vh;
     }
 }
