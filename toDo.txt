@@ -1,10 +1,9 @@
-Ajouter un logo
-Modifier la police pour avoir la police officielle d'amnesia
-Trouver une jolie couleure de background
-changer les article 1, 2, 3 en cards
-Changer l'article 4 en photo de concert avec les dates ou les titres de leur chansons
-Ajouter un lecteur pour avoir les musique en preview (integrer soundclound, youtube, spotify
-Avoir une page pour commander les CD
-IMPORTANT=>Ajouter une page pour avoir acces à tout leur evenements
-Ajouter un moyen de contacte
- linker les reseaux sociaux
+1.Header: Ajouter un logo
+2.Member cards:
+  2.1: Ajouter les resaux sociaux aux cartes
+  2.2: Modifier les textes de présentation (Actuellement lorem)
+3.Landscape article: Changer l'article 4 en photo de concert avec les dates ou les titres de leur chansons
+4.Ajouter un lecteur pour avoir les musique en preview (integrer soundclound, youtube, spotify
+5.Avoir une page pour commander les CD
+6.IMPORTANT=>Ajouter une page pour avoir acces à tout leur evenements
+7.Footer: Ajouter un moyen de contacte
