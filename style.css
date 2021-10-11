@@ -27,7 +27,7 @@ header {
 
 .title {
     position: relative;
-    top: 5px;
+    top: 10px;
     font-size: 4em;
 }
 
@@ -47,13 +47,6 @@ aside {
 .member_cards {
     background-color: #853c2b;
     border: black solid 1px;
-    height: 80vh;
-}
-
-@media screen and (max-height: 800px) {
-    .member_cards {
-        height: 120vh;
-    }
 }
 
 .member_cards > .card-body > h3 {
@@ -73,14 +66,8 @@ footer {
 @media screen and (min-width: 768px) {
     .title {
         position: relative;
-        bottom: 20px;
+        top: -8px;
         font-size: 6em;
         height: 90px;
-    }
-}
-
-@media screen and (min-width: 1199px)  {
-    .member_cards {
-        height: 80vh;
     }
 }

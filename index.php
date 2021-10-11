@@ -61,19 +61,41 @@
         <article class="col-12 col-md-4 col-xl-3 card member_cards">
           <img class="card-img-top my_card-img c" src="Pics/Thomas.jpg" alt="Picture of Thomas, member of amnesia"/>
           <div class="card-body">
-            <h3 class="hardball card-title">Thomas guitariste et chanteur</h3>
+            <h3 class="hardball card-title">Thomas guitariste</h3>
             <p class="card-text">Thomas, né le 23/10/1997 est guitariste et chanteur du groupe amnesia.
-            Il consacre la majorité de son temps libre pour l'évolution du groupe. Membre depuis la création, il aimerai pouvoir vivre grâce aux revenu d'amnesia</p>
+            Il consacre la majorité de son temps libre pour l'évolution du groupe. Membre depuis la création, il aimerai pouvoir vivre grâce aux revenu d'amnesia.
+            C'est également lui qui s'occupe le plus du côté communication du groupe</p>
           </div>
           <div class="card-footer">
             <p>Three buttons</p>
           </div>
         </article>
-        <article class="article2 col-12 col-md-4 col-xl-3">
-          <p class="row h-100 justify-content-center align-items-center">ARTICLE 2</p>
+        <article class="col-12 col-md-4 col-xl-3 card member_cards">
+          <img class="card-img-top my_card-img c" src="Pics/Julien.jpg" alt="Picture of Julien, member of amnesia"/>
+          <div class="card-body">
+            <h3 class="hardball card-title">Julien bassiste</h3>
+            <p class="card-text">Julien, né le 16/04/1995 est le bassiste du groupe amnesia.
+              Amis d'enfance de Thomas, Julien fait également partis des premier à faire partis d'Amnesia,
+              Fan de rock/metal et bassiste depuis plus de 6 ans, c'est avec Amnesia qu'il exerce sa passion.
+              </p>
+          </div>
+          <div class="card-footer">
+            <p>Three buttons</p>
+          </div>
         </article>
-        <article class="article3 col-12 col-md-4 col-xl-3">
-          <p class="row h-100 justify-content-center align-items-center">ARTICLE 3</p>
+        <article class="col-12 col-md-4 col-xl-3 card member_cards">
+          <img class="card-img-top my_card-img c" src="Pics/Mehdi.jpg" alt="Picture of Mehdi, member of amnesia"/>
+          <div class="card-body">
+            <h3 class="hardball card-title">Mehdi batteur</h3>
+            <p class="card-text">Mehdi, né le 04/12/19998 est le batteur du groupe amnesia.
+              Actuellement en école d'ingenieur, Mehdi arrive sans problèmes à coupler études et musique,
+              Bien que chaque membre est polyvalent, Mehdi est celui qui s'occupe le plus du rôle d'agent,
+              en cherchant des salles afin d'enregistrer/jouer en live les morceaux du groupe
+            </p>
+          </div>
+          <div class="card-footer">
+            <p>Three buttons</p>
+          </div>
         </article>
       </article>
 
