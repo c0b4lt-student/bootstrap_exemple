@@ -39,11 +39,6 @@ header {
     color: #361911;
 }
 
-aside {
-    height: auto;
-    background-color: lightslategray;
-}
-
 .member_cards {
     background-color: #853c2b;
     border: black solid 1px;
