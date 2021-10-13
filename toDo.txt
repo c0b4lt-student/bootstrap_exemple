@@ -1,10 +1,11 @@
-1.Header: Ajouter un logo
-2.Member cards:
-  2.1: Ajouter les resaux sociaux aux cartes
-  2.2: Modifier les textes de présentation (Actuellement lorem)
-3.Landscape article: Ajouter un petit texte présentant l'association Amnesia
-4.Ajouter un lecteur pour avoir les musique en preview (integrer soundclound, youtube, spotify
-5.Avoir une page pour commander les CD
-6.IMPORTANT=>Ajouter une page pour avoir acces à tout leur evenements
-7.Footer: Ajouter un moyen de contact
-8.Changer les couleur du site
+1.Header: Ajouter un logo X
+2.Member cards: 
+  2.1: Ajouter les resaux sociaux aux cartes V
+    2.1.1: Rendre les boutons plus esthetique X
+  2.2: Modifier les textes de présentation (Actuellement lorem) X
+3.Landscape article: Ajouter un petit texte présentant l'association Amnesia X
+4.Ajouter un lecteur pour avoir les musique en preview (integrer soundclound, youtube, spotify) X
+5.Avoir une page pour commander les CD X
+6.IMPORTANT=>Ajouter une page pour avoir acces à tout leur evenements X
+7.Footer: Ajouter un moyen de contact X
+8.Changer les couleur du site X
