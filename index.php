@@ -56,15 +56,21 @@
   <main class="row m-3">
     <section class="col-12">
 
+      <!-- Member cards -->
       <article class="row justify-content-xl-around card-group">
         <h2 class="hardball" id="qui_sommes_nous">Les membres du groupes</h2>
+        <!-- Thomas -->
         <article class="col-12 col-md-4 col-xl-3 card member_cards">
           <img class="card-img-top my_card-img c" src="Pics/Thomas.jpg" alt="Picture of Thomas, member of amnesia"/>
           <div class="card-body">
             <h3 class="hardball card-title">Thomas guitariste</h3>
-            <p class="card-text">Thomas, né le 23/10/1997 est guitariste et chanteur du groupe amnesia.
-            Il consacre la majorité de son temps libre pour l'évolution du groupe. Membre depuis la création, il aimerai pouvoir vivre grâce aux revenu d'amnesia.
-            C'est également lui qui s'occupe le plus du côté communication du groupe</p>
+            <p class="card-text">Thomas, né le 23/10/1997 est guitariste, chanteur et fondateur du groupe amnesia.</p>
+            <p class="card-text">
+              Il consacre la majorité de son temps libre pour l'évolution du groupe. Il aimerai
+              pouvoir vivre grâce aux revenus d'Amnesia. Etant un réel pationné de guitare il n'est pas rare de le croiser
+              au hasard d'une soirée, guitare à la main bandana sous le bras à partager ses compositions dans une rue de Clermond
+              C'est également lui qui s'occupe le plus du côté communication du groupe
+            </p>
           </div>
           <!-- Socials buttons -->
           <div class="card-footer d-flex justify-content-around">
@@ -86,6 +92,7 @@
           </div>
         </article>
 
+        <!-- Julien -->
         <article class="col-12 col-md-4 col-xl-3 card member_cards">
           <img class="card-img-top my_card-img c" src="Pics/Julien.jpg" alt="Picture of Julien, member of amnesia"/>
           <div class="card-body">
@@ -115,6 +122,7 @@
           </div>
         </article>
 
+        <!-- Mehdi -->
         <article class="col-12 col-md-4 col-xl-3 card member_cards">
           <img class="card-img-top my_card-img c" src="Pics/Mehdi.jpg" alt="Picture of Mehdi, member of amnesia"/>
           <div class="card-body">
@@ -146,15 +154,26 @@
         </article>
       </article>
 
-      <article class="article4 row my-1">
-        <p>
-          Amnesia est un groupe de Rock/Hard Rock/Heavy Metal formé en 2018 à Clermont-Ferrand par 4 musiciens</p>
-        <ul>
-          <li>- Thomas AGOSTINIS : guitare rythmique, chant</li>
-          <li>- Pierre BERNIS : guitare soliste</li>
-          <li>- Mehdi LAAKAIRI : batterie</li>
-          <li>- Julien SERRE : basse</li>
-        </ul>
+      <!-- Assos description -->
+      <article class="article4 row my-1 card">
+        <div class="card-body">
+          <p class="card-text">
+            AMNESIA est un groupe aux influences ROCK/METAL fondé en Novembre 2016 par Thomas Agostinis, et composé de Julien Serre et Mehdi Laakairi.
+            Ce groupe Clermontois, s’est tout de suite retrouvé dans des influences telles que Motörhead, Status Quo,
+            les Guns N’ Roses ou encore Queens Of The Stone Age.
+          </p>
+          <p class="card-text">
+            C'est en Avril 2018 qu'Amnesia a pris son nom définitif. Les musisciens du groupe ayant tous une activité à coté, ils se
+            cherchent encore et il y a eu plusieurs changement dans les membres, bien que l'esprit soit toujours le même.
+            Une des réussite d'Amnesia récente est sa double participation, au tremplin Emergenza. On peux aussi mentionner plus de 10
+            représentation officiel dans divers evenements.
+          </p>
+          <p class="card-text">
+            Amnesia ce n'est pas que du live mais aussi un groupe très productif en studio !
+            En novembre 2018 un EP a été enregistré aux Studios Palissy de Beaumont et leur premier album "Eclipse" est sortis en
+            cette fin d'année 2021 avec une quinzaine de morceaux le composant.
+          </p>
+        </div>
       </article>
 
     </section>
