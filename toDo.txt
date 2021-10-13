@@ -2,8 +2,9 @@
 2.Member cards:
   2.1: Ajouter les resaux sociaux aux cartes
   2.2: Modifier les textes de présentation (Actuellement lorem)
-3.Landscape article: Changer l'article 4 en photo de concert avec les dates ou les titres de leur chansons
+3.Landscape article: Ajouter un petit texte présentant l'association Amnesia
 4.Ajouter un lecteur pour avoir les musique en preview (integrer soundclound, youtube, spotify
 5.Avoir une page pour commander les CD
 6.IMPORTANT=>Ajouter une page pour avoir acces à tout leur evenements
-7.Footer: Ajouter un moyen de contacte
+7.Footer: Ajouter un moyen de contact
+8.Changer les couleur du site

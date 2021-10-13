@@ -6,6 +6,14 @@
     font-style: normal;
 }
 
+.insta_svg {
+    color: #4C5FD7;
+}
+
+.facebook_svg {
+    color: #3B5998;
+}
+
 .hardball {
     font-family: hardball;
     font-size: 1.8rem;
